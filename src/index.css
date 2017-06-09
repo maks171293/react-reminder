@@ -19,3 +19,11 @@ input{
 .form-reminder{
   margin: 5px;
 }
+.list-item{
+  display: inline-block;
+}
+.delete-button{
+  float: right;
+  padding-left: 10px;
+  cursor: pointer;
+}
