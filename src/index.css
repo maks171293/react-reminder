@@ -1,0 +1,21 @@
+.app{
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-top: 20px;
+  text-align: center;
+}
+.title{
+  font-size: 26px;
+}
+input{
+  margin: 5px;
+}
+.form-reminder{
+  margin: 5px;
+}
